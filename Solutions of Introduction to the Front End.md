@@ -35,3 +35,9 @@ Property and property value.
 > How do you reference a file in the same directory as your HTML file?
 
 To link to a target file in the same directory as the invoking HTML file, just use the filename, e.g. `my-image.jpg`.
+
+> How do you reference a file in a directory below your HTML file?
+
+To reference a file in a subdirectory, write the directory name in front of the path, plus a forward slash, e.g. `subdirectory/my-image.jpg`.
+
+> To link to a target file in the directory above the invoking HTML file, write two dots. So for example, if `index.html` was inside a subfolder of `test-site` and `my-image.jpg` was inside `test-site`, you could reference `my-image.jpg` from `index.html` using `../my-image.jpg`.
