@@ -1,5 +1,5 @@
 # Solutions of Introduction to the Front End
-This file contains my response to the Knowledge Check section on [this page.](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/introduction-to-the-front-end#knowledge-check)
+This file contains my attempt to the Knowledge Check section on [this page.](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/introduction-to-the-front-end#knowledge-check)
 
 > Which language is responsible for the semantic structure of a document?
 
