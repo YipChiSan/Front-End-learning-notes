@@ -19,4 +19,5 @@ Cascading Style Sheets (CSS)
 * **closing tag**: To state where the element ends
 
 > What is the selector in a CSS ruleset?
+
 This is the HTML element name at the start of the ruleset. It defines the element(s) to be styled.
