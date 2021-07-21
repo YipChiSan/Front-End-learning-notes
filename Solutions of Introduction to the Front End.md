@@ -15,3 +15,5 @@ Cascading Style Sheets (CSS)
 * Building web servers and developing server applications
 
 > What is the purpose of an opening tag and closing tag in an HTML element?
+* **opening tag**: To state where the element begins or starts to take effect
+* **closing tag**: To state where the element ends
