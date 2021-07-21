@@ -27,3 +27,11 @@ This is the HTML element name at the start of the ruleset. It defines the elemen
 
 * **property**: These are ways in which you can style an HTML element.
 * **property value**: This chooses one out of many possible appearances for a given property. 
+
+> What is the declaration in a CSS ruleset?
+
+Property and property value.
+
+> How do you reference a file in the same directory as your HTML file?
+
+To link to a target file in the same directory as the invoking HTML file, just use the filename, e.g. `my-image.jpg`.
