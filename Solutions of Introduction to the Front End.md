@@ -22,3 +22,8 @@ Cascading Style Sheets (CSS)
 > What is the selector in a CSS ruleset?
 
 This is the HTML element name at the start of the ruleset. It defines the element(s) to be styled.
+
+> What is the property and property value in a CSS ruleset?
+
+* **property**: These are ways in which you can style an HTML element.
+* **property value**: This chooses one out of many possible appearances for a given property. 
