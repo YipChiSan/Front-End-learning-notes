@@ -17,3 +17,6 @@ Cascading Style Sheets (CSS)
 > What is the purpose of an opening tag and closing tag in an HTML element?
 * **opening tag**: To state where the element begins or starts to take effect
 * **closing tag**: To state where the element ends
+
+> What is the selector in a CSS ruleset?
+This is the HTML element name at the start of the ruleset. It defines the element(s) to be styled.
