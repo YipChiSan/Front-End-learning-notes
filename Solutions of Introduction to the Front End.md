@@ -18,6 +18,7 @@ Cascading Style Sheets (CSS)
 * **opening tag**: To state where the element begins or starts to take effect
 * **closing tag**: To state where the element ends
 
+[Image of CSS ruleset](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics/css-declaration-small.png)
 > What is the selector in a CSS ruleset?
 
 This is the HTML element name at the start of the ruleset. It defines the element(s) to be styled.
