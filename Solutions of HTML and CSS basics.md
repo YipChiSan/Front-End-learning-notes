@@ -38,3 +38,7 @@ To my understanding, `div` is a container that can contain any HTML elments as y
 > What is the “query string” in a URL and what does it do?
 
 A query string is a part of a URL and it can assign values to specific parameters. It is always in the form of `something=other` after a question mark `?` in a URL.
+
+> What is the difference between “pixels” and “em”?
+
+Pixel(px) is a static measurement while em are relative measurements. em is relative to the font-size of the element (2em means 2 times the size of the current font).
