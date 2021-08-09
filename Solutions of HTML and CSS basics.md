@@ -18,3 +18,7 @@ For me, an absolute beginner on web development, I would say the most significan
 Mobile-first based on lots of information from Google. I will summarise some ideas from this [post](https://www.freecodecamp.org/news/taking-the-right-approach-to-responsive-web-design/).
   * Websites are naturally responsive before we even write a single line of CSS.
   * Mobile layouts tend to be very simple, making it very easy to start there. (Desktop-first can lead to redundant code) 
+
+> Describe the components of the CSS Box Model.
+
+This [link](https://www.w3schools.com/css/css_boxmodel.asp) is a very good reference for this.
