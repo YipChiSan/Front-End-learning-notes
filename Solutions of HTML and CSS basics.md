@@ -30,3 +30,11 @@ In short, CSS breakpoints are points where the website content responds accordin
 > What is a div and how are they used?
 
 To my understanding, `div` is a container that can contain any HTML elments as you want. [Here](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div) is a more comprehensive explanation.
+
+> What are the two main groups of CSS properties that control typography style?
+
+`font` and `text`. More detailed information are [about font](https://developer.mozilla.org/en-US/docs/Web/CSS/font) and [about text](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Text).
+
+> What is the “query string” in a URL and what does it do?
+
+A query string is a part of a URL and it can assign values to specific parameters. It is always in the form of `something=other` after a question mark `?` in a URL.
