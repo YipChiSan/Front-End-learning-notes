@@ -26,3 +26,7 @@ This [link](https://www.w3schools.com/css/css_boxmodel.asp) is a very good refer
 > In CSS, what is a breakpoint?
 
 In short, CSS breakpoints are points where the website content responds according to the device width, allowing you to show the best possible layout to the user. CSS breakpoints are also called media query breakpoints, as they are used with [media query](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries).
+
+> What is a div and how are they used?
+
+To my understanding, `div` is a container that can contain any HTML elments as you want. [Here](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div) is a more comprehensive explanation.
