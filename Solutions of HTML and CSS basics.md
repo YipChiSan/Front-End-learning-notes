@@ -42,3 +42,9 @@ A query string is a part of a URL and it can assign values to specific parameter
 > What is the difference between “pixels” and “em”?
 
 Pixel(px) is a static measurement while em are relative measurements. em is relative to the font-size of the element (2em means 2 times the size of the current font).
+
+> How does inheritance work for CSS styles, i.e. how does an element get its “default” styles?
+
+There are two ways for inheritance:
+ * Inherited property: When no value for an inherited property has been specified on an element, the element gets the computed value of that property on its parent element. Only the root element of the document gets the initial value given in the property's summary.
+ * The [inherit](https://developer.mozilla.org/en-US/docs/Web/CSS/inherit) keyword allows authors to explicitly specify inheritance. It works on both inherited and non-inherited properties.
