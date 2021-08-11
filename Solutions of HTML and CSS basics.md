@@ -48,3 +48,13 @@ Pixel(px) is a static measurement while em are relative measurements. em is rela
 There are two ways for inheritance:
  * Inherited property: When no value for an inherited property has been specified on an element, the element gets the computed value of that property on its parent element. Only the root element of the document gets the initial value given in the property's summary.
  * The [inherit](https://developer.mozilla.org/en-US/docs/Web/CSS/inherit) keyword allows authors to explicitly specify inheritance. It works on both inherited and non-inherited properties.
+
+> What are two CSS attributes you can change to push an element around on the page?
+
+* `float`: While float defaults to none, setting this property to left or right ‘floats’ an element to the left or right of a container respectively, wrapping the rest of the content around it.
+* `position`: The position property determines in what manner an item is positioned on the page or relative to one another.
+
+> What are the three different ways to include a CSS stylesheet in your project or use CSS to style a particular element?
+* Inline: To use inline styles, add the style attribute to the relevant element. The style attribute can contain any CSS property.
+* Internal: The internal style is defined inside the `<style>` element, inside the head section.
+* External: Each HTML page must include a reference to the external style sheet file inside the `<link>` element, inside the head section.
