@@ -62,3 +62,7 @@ There are two ways for inheritance:
 > What is the “default stylesheet” or “user agent stylesheet”?
 * Default stylesheet: Every CSS property has a Formal Definition section. These Formal Definitions are a part of the W3C’s standardization of CSS, the organization that is in charge of the web’s standards.
 * User agent stylesheet: The “User-Agent-Stylesheet” is the default CSS file that the browser companies implement in their browsers.
+
+> What is the purpose of a CSS reset file?
+
+The goal of a reset stylesheet is to reduce browser inconsistencies in things like default line heights, margins and font sizes of headings, and so on. It will reset all styles made by browsers.
