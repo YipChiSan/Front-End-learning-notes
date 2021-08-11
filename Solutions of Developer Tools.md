@@ -32,3 +32,11 @@ There is a small button on the top left side of the **Inspect** button. You can 
 > Are changes made in your browser’s developer tools permanent?
 
 No but there is a [possible way](https://www.ghacks.net/2018/02/27/make-permanent-changes-to-web-pages-with-chromes-overrides-dev-tool/) to do it.
+
+> How do you open the console in your browser’s developer tools?
+
+To open the developer console in Google Chrome, open the Chrome Menu in the upper-right-hand corner of the browser window and select **More Tools** > **Developer Tools**.
+
+> What is the best resource for learning about your browser’s developer tools?
+
+[Official documentation](https://developer.chrome.com/docs/devtools/)
