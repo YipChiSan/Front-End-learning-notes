@@ -58,3 +58,7 @@ There are two ways for inheritance:
 * Inline: To use inline styles, add the style attribute to the relevant element. The style attribute can contain any CSS property.
 * Internal: The internal style is defined inside the `<style>` element, inside the head section.
 * External: Each HTML page must include a reference to the external style sheet file inside the `<link>` element, inside the head section.
+
+> What is the “default stylesheet” or “user agent stylesheet”?
+* Default stylesheet: Every CSS property has a Formal Definition section. These Formal Definitions are a part of the W3C’s standardization of CSS, the organization that is in charge of the web’s standards.
+* User agent stylesheet: The “User-Agent-Stylesheet” is the default CSS file that the browser companies implement in their browsers.
