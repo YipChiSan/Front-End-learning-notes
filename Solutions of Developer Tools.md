@@ -12,3 +12,15 @@ Right-click an element and select Inspect. The Elements panel of DevTools opens.
 > How do you change CSS in real time on specific elements of a web page with your browser’s developer tools?
 
 The **Styles** tab on the **Elements** panel lists the CSS rules being applied to whatever element is currently selected in the DOM Tree. Then we can simply add or change CSS of an element under Style tab.
+
+> What does a strikethrough in a CSS element mean in your browser’s developer tools?
+
+When a CSS property shows as struck-through, it means that the crossed-out style was applied, but then overridden by a more specific selector, a more local rule, or by a later property within the same rule.
+
+> How do you check every inherited style for an element in your browser’s developer tools?
+
+It is simply displayed on the **Styles** tab.
+
+> How do you edit HTML in real time in your browser’s developer tools?
+
+You can edit the HTML — tags, attributes, and content — directly in the HTML pane: double-click the text you want to edit, change it, and press Enter to see the changes reflected immediately. To edit an element's outerHTML, activate the element's popup menu and select "Edit As HTML". You'll see a text box in the HTML pane and then you can add any HTML codes you need.
