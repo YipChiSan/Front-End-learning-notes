@@ -24,3 +24,11 @@ It is simply displayed on the **Styles** tab.
 > How do you edit HTML in real time in your browser’s developer tools?
 
 You can edit the HTML — tags, attributes, and content — directly in the HTML pane: double-click the text you want to edit, change it, and press Enter to see the changes reflected immediately. To edit an element's outerHTML, activate the element's popup menu and select "Edit As HTML". You'll see a text box in the HTML pane and then you can add any HTML codes you need.
+
+> How do you toggle responsive design mode in your browser’s developer tools?
+
+There is a small button on the top left side of the **Inspect** button. You can simply click it and toggle responsive design mode.
+
+> Are changes made in your browser’s developer tools permanent?
+
+No but there is a [possible way](https://www.ghacks.net/2018/02/27/make-permanent-changes-to-web-pages-with-chromes-overrides-dev-tool/) to do it.
