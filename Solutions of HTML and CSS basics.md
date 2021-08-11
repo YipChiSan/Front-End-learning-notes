@@ -66,3 +66,7 @@ There are two ways for inheritance:
 > What is the purpose of a CSS reset file?
 
 The goal of a reset stylesheet is to reduce browser inconsistencies in things like default line heights, margins and font sizes of headings, and so on. It will reset all styles made by browsers.
+
+> What is the !important rule in CSS?
+
+The `!important` rule in CSS is used to add more importance to a property/value than normal. In fact, if you use the `!important` rule, it will override ALL previous styling rules for that specific property on that element!
