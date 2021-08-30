@@ -89,6 +89,7 @@ b = ++a;
 Operator precedence describes the order in which operations are performed in an arithmetic expression. This is the same as an arithmetic expression.
 
 > How do you log information to the console?
+
 `console.log()`
 
 > What does unary plus operator do to string representations of integers?
